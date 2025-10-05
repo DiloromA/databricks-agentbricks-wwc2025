@@ -5,7 +5,7 @@ Welcome! 👋 This repository will host the notebooks, slides, and resources for
 ## 📌 Workshop Overview
 In this session, we explore how to use **Databricks AgentBricks** and other Lakehouse capabilities to build intelligent data solutions.  
 You’ll see how to:  
-- Design a **LakeFlow medallion architecture**  
+- Design a **Lakehouse medallion architecture**  
 - Use **Databricks Genie** for self-service insights  
 - Build and run **AgentBricks** for business problem solving  
 
