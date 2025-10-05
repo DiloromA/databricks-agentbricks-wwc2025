@@ -10,7 +10,7 @@ The **Medallion Architecture** (also known as "multi-hop" architecture) is a dat
 | Silver | Cleaned and standardized data |
 | Gold | Business-ready analytics |
 
-![Lakehouse architecture diagram](images\databricks_lakehouse.png)
+![Lakehouse architecture diagram](images/databricks_lakehouse.png)
 
 ## Why It Matters for Building a Lakehouse
 
@@ -91,8 +91,8 @@ gold.write.format("delta").mode("overwrite").saveAsTable("gold.user_metrics")
 
 [LinkedIn](https://www.linkedin.com/in/diloromabdullah)
 
-![LinkedIn QR Code](images\dilorom_linkedin_qr_code.png)
+![LinkedIn QR Code](images/dilorom_linkedin_qr_code.png)
 
 [Medium](https://medium.com/@dilorom) 
 
-![Medium QR Code](images\dilorom_medium_qr_code.png)
+![Medium QR Code](images/dilorom_medium_qr_code.png)
